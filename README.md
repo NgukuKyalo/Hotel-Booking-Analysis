@@ -35,7 +35,8 @@ Also Resort Hotel being used for vacation stays while City Hotels hosting busine
 
 Number of booking increased during the summer months with most bookings being done in August. The weather is a contributing factor. While less bookings are observed in winter months.
 
-Recommendation: The hotel should impliment stricter, non-refundable booking rates during summer because they can easily find replacement guests
+#### Recommendation:
+The hotel should impliment stricter, non-refundable booking rates during summer because they can easily find replacement guests
 
 ## Lead Time and its Association with Cancellation
 
@@ -46,7 +47,8 @@ Lead time is the number of days between when a guest books a room and when they 
 The box plot shows that the lead time for canceled bookings is much higher.
 Basically: the earlier someone books, the more time they have to change their mind , find a better deal or experience a schedule change.
 
-Recommendation: Introduce a progressive deposit system where bookings made more than 90 days in advance, require 20% non-refundable deposits
+#### Recommendation: 
+Introduce a progressive deposit system where bookings made more than 90 days in advance, require 20% non-refundable deposits
 
 ## Top 10 Countries
 
