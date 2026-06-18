@@ -12,6 +12,7 @@ An end-to-end data analysis project oncovering drivers of hotel cancellations an
 *[Executive Recommendation](#executive-recommendations)
 
 ...
+
 ## About the Project
 This project acts as a strategic analysis for a simulated hotel chain. Using kaggle "Hotel Booking Demand" dataset (119k+ records), the goal was to identify the root causes of cancellation, map seasonal demand, and discover which customer segments provide the highest lifetime value.
 This analysis moves from raw data cleaning and feature engineering to deep exploratory data analysis.
